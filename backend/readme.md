@@ -1,0 +1,6 @@
+- controladores =
+- models = modelos de bds
+- routes = rutas de la app
+  - login code
+  -
+- BD =
