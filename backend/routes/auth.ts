@@ -4,7 +4,7 @@ import { generateCode, login } from "../controllers/auth";
 // Router autenticacion
 const router = express.Router();
 
-router.post("/longin", login);
-router.post("/longin/:email/code", generateCode);
+router.post("/login", login);
+router.post("/login/:email/code", generateCode);
 
 export default router;

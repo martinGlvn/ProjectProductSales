@@ -4,3 +4,5 @@
   - login code
   -
 - BD =
+  - conectar bd
+  -
